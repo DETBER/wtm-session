@@ -1,5 +1,13 @@
 # wtm-session
 
-this is my first git project
+#Purpose: 
+to get in touch with development skill
 
-1st update
+```
+example code
+```
+
+
+##Header 1
+
+#Header 2
